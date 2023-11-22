@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "name": "prepare bibika for carmeet",
+      "id": 2
+    },
+    {
+      "name": "do the laundry",
+      "id": 3
+    },
+    {
+      "name": "do the dishes",
+      "id": 4
+    },
+    {
+      "name": "Purchase  'ziemsiti'",
+      "id": 6
+    },
+    {
+      "name": "maybe cry for help",
+      "id": 7
+    }
+  ]
+}
